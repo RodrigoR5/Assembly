@@ -1,0 +1,3 @@
+• para indicar fim do programa, utilize a chamada do sistema exit, por exemplo
+ li $v0, 10 # faz $v0 = 10 (chamada de sistema exit)
+ syscall # faz a chamada de sistema 

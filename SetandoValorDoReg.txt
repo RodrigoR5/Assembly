@@ -1,0 +1,19 @@
+colocando um valor num registrador:
+
+Constante:
+
+li	$t1, 4		# $t1 = 4;	
+
+
+
+
+Valor dentro de um registrador:
+
+move	$t1, $t2	# $t1 = $t2;
+
+
+
+Endereço:
+
+la	$t1, variavel	#variavel guarda o endereço na memoria da variavel que eu criei no campo .data
+
