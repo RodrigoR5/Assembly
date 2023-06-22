@@ -1,9 +1,0 @@
-Declarações de dados 
-• colocados em uma seção identificada pela diretiva .data
-• declara nomes de variáveis usadas no programa; aloca espaço de armazenamento na memória
-RAM
-Código
-• colocados em uma seção identificada pela diretiva .text
-• o ponto inicial do programa é indicado pela label main:
-• o final do código principal deve usar uma chamada de sistema (System Calls) para ser finalizado
-(veja abaixo em chamadas de sistema) 
